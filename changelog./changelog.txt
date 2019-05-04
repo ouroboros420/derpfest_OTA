@@ -1,13 +1,6 @@
-DERPFEST For Pie FW TEST here:
-Upstream source which means: 
-- Q Clock: Wallpaper based color is back
-- Q Clock: Added alignment options
-- Q Clock: Added a lot of translations
-- Switched to a new Custom doze package with settings for Ambient brightness values
-- Added Pixel Navbar
-- SystemUI: Decrease padding for statusbar icons
-- Themes: fix autofill saved entries picker dialog
-- AODTile: Fix long click intent
-- overlay: make power menu icons follow accent on light theme
-- Some more things maybe I can't remember more :P
-added brightness control for ambient display.
+-Little Fairy Sophie Edition-
+*Guaiyihu Kernel 4.4.179-perf-MoD+ by @Adi20_01 
+*Clang 9.0.3
+*Updated to MIUI 9.4.18
+*Many under the hood changes (thanks to @Adi20_01 )
+*selinux permissive (might be fixed in next release)
